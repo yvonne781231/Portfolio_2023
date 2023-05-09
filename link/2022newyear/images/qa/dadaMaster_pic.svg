@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.007" height="48.006" viewBox="0 0 48.007 48.006">
+  <g id="Group_4769" data-name="Group 4769" transform="translate(-390 -25173)">
+    <path id="Path_15502" data-name="Path 15502" d="M24,0A24,24,0,1,1,0,24,24,24,0,0,1,24,0Z" transform="translate(390 25173)" fill="#ffd400"/>
+    <g id="Group_4770" data-name="Group 4770" transform="translate(392.025 25175.045)">
+      <g id="圖層_6" data-name="圖層 6" transform="translate(0.02 0)">
+        <circle id="Ellipse_31" data-name="Ellipse 31" cx="22" cy="22" r="22" transform="translate(-0.042 -0.041)" fill="#ffd400"/>
+      </g>
+      <g id="圖層_5" data-name="圖層 5" transform="translate(0 0.074)">
+        <g id="Group_4770-2" data-name="Group 4770" transform="translate(0 0)">
+          <path id="Path_15498" data-name="Path 15498" d="M299.416,397.5l1.578-2.292h7.22l2.214-2.948h-7.4l2.344-3.4h-4.1l-2.333,3.4H287.693l2.318-3.268h-4.027l-2.26,3.268h-5.971l-2.214,2.948h6.146l-9.5,13.731h4.038l7.1-10.527,6.14,6.472,2.008-2.924-6.1-6.433.226-.319H296.91L287.6,408.8h4.038l5.775-8.389,8.264,8.389h4.851Z" transform="translate(-269.413 -376.723)"/>
+          <path id="Path_15499" data-name="Path 15499" d="M792.56,506.571" transform="translate(-752.944 -486.105)"/>
+          <path id="Path_15500" data-name="Path 15500" d="M635.09,672.577a.468.468,0,0,0-.237.407v10.291c0,.259.314.469.574.469a.516.516,0,0,0,.521-.469v-9.035L642.265,678l-4.757,3.032a.668.668,0,0,0-.177.792.691.691,0,0,0,.8.192l5.742-3.7a.469.469,0,0,0-.014-.8l-8.3-4.943a.468.468,0,0,0-.472,0Zm0,0" transform="translate(-606.402 -640.301)"/>
+          <path id="Path_15501" data-name="Path 15501" d="M259.395,261.278a22.109,22.109,0,1,1,12.241-7.027" transform="translate(-232.992 -217.496)" fill="none" stroke="#020202" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
